@@ -1,0 +1,14 @@
+{
+  "name": "placement-embed",
+  "version": "1.0.0",
+  "description": "Embed for app.talento",
+  "main": "dist/index.min.js",
+  "repository": "git@github.com:Laboratoria/placement-embed.git",
+  "author": "Guilherme Moura <gmoura.nas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.1",
+    "pump": "^3.0.0"
+  }
+}
