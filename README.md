@@ -57,7 +57,7 @@ https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-
 
 ## Exemplos de uso
 
-![](https://laboratoria.github.io/placement-embed/src/images/embed-exemplo-1.png)
+![](https://laboratoria.github.io/placement-embed/src/images/embed-exemplo-1.png?v=1)
 
 ![](https://laboratoria.github.io/placement-embed/src/images/embed-exemplo-2.png)
 
