@@ -54,3 +54,11 @@ https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-magenta.svg
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-black.svg
 ```
+
+## Exemplos de uso
+
+![](https://laboratoria.github.io/placement-embed/src/images/embed-exemplo-1.png)
+
+![](https://laboratoria.github.io/placement-embed/src/images/embed-exemplo-2.png)
+
+![](https://laboratoria.github.io/placement-embed/src/images/embed-exemplo-3.png)
