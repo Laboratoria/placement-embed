@@ -6,19 +6,19 @@ Placement Embed tem o objetivo de ajudar você, como? Aumentando a probabilidade
 
 ## Como?
 
-Basta você inserir um codigo super simple em seus projetos ou até mesmo em seu Readme do Github?
+Basta você inserir um codigo super simple em seus projetos ou até mesmo em seu README.md do seu projeto. Apenas tenha em mãos o seu link da aplicação de talento.
 
 ## Exemplos de codigo
 
-**Para se inserido no HTML do seu projeto**
+**Usar no HTML do meu projeto**
 
 ```html
 <a href="https://app.talento.laboratoria.la/profile/rJCC6EFBZUQ5qU3eRWvGvU58lH22" title="Gloria Valencia">
-  <img src="https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-yellow.svg" alt="Gloria Valencia"
+  <img src="https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-yellow.svg" alt="Gloria Valencia" />
 </a>
 ```
 
-**Para ser inserido no README.md do seu projeto**
+**Usar no README.md do seu projeto**
  
 ```
 [![Gloria Valencia](https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-yellow.svg)](https://app.talento.laboratoria.la/profile/rJCC6EFBZUQ5qU3eRWvGvU58lH22)
