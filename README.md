@@ -29,23 +29,14 @@ Basta você inserir um codigo super simple em seus projetos ou até mesmo em seu
 ### Vertical
 
 ![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-yellow.svg)
+![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-green.svg)
+![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-magenta.svg)
+![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-black.svg)
+
 ```
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-yellow.svg
-```
-
-![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-green.svg)
-```
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-green.svg
-```
-
-![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-magenta.svg)
-```
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-magenta.svg
-```
-
-
-![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-black.svg)
-```
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-black.svg
 ```
 
@@ -53,21 +44,13 @@ https://laboratoria.github.io/placement-embed/src/images/laboratoria-vertical-bl
 ### Horizontal
 
 ![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-yellow.svg)
+![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-green.svg)
+![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-magenta.svg)
+![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-black.svg)
+
 ```
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-yellow.svg
-```
-
-![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-green.svg)
-```
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-green.svg
-```
-
-![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-magenta.svg)
-```
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-magenta.svg
-```
-
-![](https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-black.svg)
-```
 https://laboratoria.github.io/placement-embed/src/images/laboratoria-horizontal-black.svg
 ```
