@@ -6,7 +6,7 @@ Placement Embed tem o objetivo de ajudar você, como? Aumentando a probabilidade
 
 ## Como?
 
-Basta você inserir um codigo super simple em seus projetos ou até mesmo em seu README.md do seu projeto. Apenas tenha em mãos o seu link do seu perfil na aplicação de talento.
+Basta você inserir um código super simples em seus projetos ou até mesmo em seu README.md do seu projeto. Apenas tenha em mãos o seu link do seu perfil na aplicação de talento.
 
 ## Exemplos de codigo
 
